@@ -57,7 +57,6 @@
 ## 10. Complete MLOPS tutorials
 
 - Complete Dockers In One Shot English: https://www.youtube.com/watch?v=8vmKtS8W7IQ
-- End To End ML Projects Playlist In English: https://www.youtube.com/watch?v=pxk1Fr33-L4
 - Evidently AI Model Monitoring: https://www.youtube.com/watch?v=cgc3dSEAel0
 - Complete Docker In One Shot Hindi: **Coming soon**
 - Complete Github Action In English: **Coming soon**
